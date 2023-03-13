@@ -5,7 +5,6 @@ let val: number
 
 describe('Given sum() was called', () => {
   describe('When the arguments are 1 and 1', () => {
-
     beforeEach(() => {
       val = sum(1, 1)
     })
