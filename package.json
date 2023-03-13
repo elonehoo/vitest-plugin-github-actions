@@ -1,7 +1,7 @@
 {
   "name": "vitest-plugin-github-actions",
   "version": "0.0.1",
-  "description": "Starter template for TypeScript library",
+  "description": "GitHub actions error and coverage reporter for vitest.",
   "author": "Elone Hoo <hi@elonehoo.me>",
   "license": "MIT",
   "homepage": "https://github.com/wip-elonehoo/vitest-plugin-github-actions#readme",
