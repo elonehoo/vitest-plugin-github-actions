@@ -1,6 +1,6 @@
 {
   "name": "vitest-plugin-github-actions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Starter template for TypeScript library",
   "author": "Elone Hoo <hi@elonehoo.me>",
   "license": "MIT",
