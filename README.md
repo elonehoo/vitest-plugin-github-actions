@@ -6,7 +6,9 @@
 
 <br />
 
-<img width="1193" src="./public/test.png">
+<a href="https://github.com/wip-elonehoo/vitest-plugin-github-actions/pull/1/files#diff-c6d11505ff539aa48ff575805de50cf3bacd78c276a1be8c7000ac22fe42ce51">
+  <img width="1193" src="./public/text.png">
+</a>
 
 ## Install
 
