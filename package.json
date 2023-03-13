@@ -34,7 +34,7 @@
     "build": "tsup",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "test":"vitest",
+    "test": "vitest",
     "typecheck": "tsc --noEmit",
     "release": "bumpp package.json --commit --push --tag && pnpm -r publish --access public"
   },

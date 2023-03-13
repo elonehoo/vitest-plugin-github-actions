@@ -7,14 +7,17 @@ describe('Given sum() exists', () => {
     sum = vi.fn()
   })
 
+
   describe('When sum() is called', () => {
     beforeEach(() => {
       sum()
     })
 
+
     test('Then sum() should be called', () => {
       expect(sum).toBeCalled()
     })
+
 
     test('Then sum() should not be called', () => {
       expect(sum).not.toBeCalled()
