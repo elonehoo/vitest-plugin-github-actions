@@ -16,7 +16,7 @@ describe('Given sum() was called', () => {
 
     // Failing test
     test('Then the sum should be 3', () => {
-      expect(val).toBe(3)
+      expect(val).toBe(2)
     })
   })
 })
