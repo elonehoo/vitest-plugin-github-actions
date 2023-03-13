@@ -1,3 +1,3 @@
-import GithubReporter from './github';
+import GithubReporter from './github'
 
-export default GithubReporter;
+export default GithubReporter
