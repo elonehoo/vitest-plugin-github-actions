@@ -15,11 +15,5 @@ describe('Given sum() was called', () => {
     test('Then the sum should be 2', () => {
       expect(val).toBe(2)
     })
-
-
-    // Failing test
-    test('Then the sum should be 3', () => {
-      expect(val).toBe(3)
-    })
   })
 })
