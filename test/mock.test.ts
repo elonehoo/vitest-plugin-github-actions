@@ -2,7 +2,7 @@ import { beforeEach, describe, expect, test, vi } from 'vitest'
 
 let sum: () => void
 
-describe.skip('Given sum() exists', () => {
+describe('Given sum() exists', () => {
   beforeEach(() => {
     sum = vi.fn()
   })
