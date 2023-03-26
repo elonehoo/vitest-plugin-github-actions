@@ -22,7 +22,7 @@ pnpm install --save-dev vitest-plugin-github-actions
 // vitest.config.ts || vite.config.ts
 // import { defineConfig } from 'vite'
 import { defineConfig } from 'vitest/config'
-import GitHubVitest from './src'
+import GitHubVitest from 'vitest-plugin-github-actions'
 
 export default defineConfig({
   test: {
