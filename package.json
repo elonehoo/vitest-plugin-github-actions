@@ -1,6 +1,6 @@
 {
   "name": "vitest-plugin-github-actions",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "GitHub actions error and coverage reporter for vitest.",
   "author": "Elone Hoo <hi@elonehoo.me>",
   "license": "MIT",
